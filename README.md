@@ -12,4 +12,5 @@ En este proyecto utilizamos el edito de código *Visual Studio Code* y los lengu
 </ol>
 
 ### VISTA PREVIA 
-![image](https://github.com/VanneGR/google-Clon/assets/153123918/8163325f-eb00-4255-8266-5090ebb474cd)
+![image](https://github.com/VanneGR/google-Clon/assets/153123918/e1c009a9-2595-4960-81b3-06c1be3f3650)
+
